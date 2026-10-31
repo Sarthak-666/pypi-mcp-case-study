@@ -13,6 +13,10 @@ API Architectures*.
 | `client.py` | Test client: launches the server, discovers its capabilities, calls tools |
 | `measure.py` | Counts the integration code each approach needs |
 
+## Authors
+- Sarthak Maganty ([@Sarthak-666](https://github.com/Sarthak-666))
+- Ayush Dash ([@pujadash1975-design](https://github.com/pujadash1975-design))
+
 ## 1. Set up (5 minutes)
 
 Needs Python 3.10 or newer.
